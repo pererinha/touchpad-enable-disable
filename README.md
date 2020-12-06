@@ -3,7 +3,7 @@ simple script to enable or disable Touchpad on linux
 
 it is pretty annoying when you are typing and accidentally you touch the Touchpad (or when your cat 🐈 deliberately touches it) and your cursor goes to another line 
 
-so i created this very simple script to disable/enable it
+so i created this very simple script to disable/enable it so my kitty can play with on Touchpad while I'm trying to work
 
 # how to
 
